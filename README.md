@@ -1,5 +1,7 @@
 # Bot Control Panel
 
+![image.png]()
+
 > Графическая панель управления ботом для Minecraft на Python и Mineflayer
 
 ## можно управлять ботом через панель 
