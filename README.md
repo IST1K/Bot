@@ -1,6 +1,7 @@
 # Bot Control Panel
 
-![image.png]()
+![Панель](<img width="916" height="179" alt="image" src="https://github.com/user-attachments/assets/46242332-8976-4423-94dd-2dd1e6c22887" />
+)
 
 > Графическая панель управления ботом для Minecraft на Python и Mineflayer
 
