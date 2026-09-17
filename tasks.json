@@ -1,0 +1,12 @@
+{
+  "server_config": {
+    "host": "localhost",
+    "port": 25575,
+    "version": "1.21.1"
+  },
+  "bot_settings": {
+    "username": "Peak_Bot",
+    "search_radius": 33,
+    "auto_defense": true
+  }
+}
